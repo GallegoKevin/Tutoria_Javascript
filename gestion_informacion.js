@@ -50,8 +50,7 @@ const motocicleta2 = {
 };
 
 Object.seal(motocicleta2);
-motocicleta2.marca = "Yamaha"; // Permitido
-// delete motocicleta2.modelo; // No permitido, esto dará un error si se intenta eliminar una propiedad sellada
+motocicleta2.marca = "Yamaha";
 console.log(motocicleta2);
 
 // Unir dos objetos usando Object.assign y el operador spread
@@ -67,7 +66,7 @@ const motocicletaUnida2 = { ...motocicleta2, ...especificaciones };
 console.log(motocicletaUnida2);
 
 
-// mostrarinfo_en la consola visualizar
+// mostrarinfo_en la consola visualizar12
 motocicleta2.mostrardato();
 
 // Recorrer el objeto usando Object.keys, Object.values y Object.entries
