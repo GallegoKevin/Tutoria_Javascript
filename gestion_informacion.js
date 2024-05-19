@@ -1,3 +1,7 @@
+
+
+console.log('Gestion de informacion de motocicleta:')
+
 // Objeto con propiedades básicas
 // Añadir un objeto anidado dentro de motocicleta
 const motocicleta = {
