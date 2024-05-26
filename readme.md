@@ -2,7 +2,7 @@
 
 ![imagen](https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdnmlujw039fw5dtvowu6.jpg)
 
-## `Calculdora basica:` 
+## `Calculadora basica:` 
 
 1. `Entrada de datos:` Se utiliza prompt para solicitar al usuario que ingrese dos números (numberA y numberB) y la operación (operacion) que desea realizar.
 
@@ -35,3 +35,9 @@
 
 9. `Funciones con Parámetros y Devolución:` Se define y utiliza una función actualizarKilometraje que toma parámetros y devuelve un objeto modificado.
 
+
+
+
+## RESULTADO FINAL EN CONSOLA:
+
+![RESULTADO](https://i.ibb.co/chqm1yh/tutoria-javascript.gif)
