@@ -50,6 +50,7 @@ Los iteradores o bucles; nos permite repetir un bloque de código varias veces h
 
 
 1. **`while`**: Se usa para repetir un bloque de codigos mientras se cumplan las condiciones especificadas sea verdadera. Su sintaxis suele ser: 
+
 while (condición) {
     // Bloque de código a ejecutar mientras la condición sea verdadera
 }
